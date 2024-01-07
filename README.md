@@ -3,7 +3,7 @@
 Code of the AAAI 2024 paper :
 <br>**Augmented Commonsense Knowledge for Remote Object Grounding**<br>
 
-![teaser](overview.pdf)
+![teaser](overview.png)
 
 </p>
 
